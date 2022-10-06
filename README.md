@@ -6,7 +6,6 @@ You can download an use them as you please.
 This collection will grow over time. 
 
 ## 1. Grid Material
-Grid material for prototyping or simple visual game.
 ### Features
 - Grid world aligned or not
 - Front/Back - Top/Down - Right/Left independant parameters (colors, grid size, roughtness, etc..)
